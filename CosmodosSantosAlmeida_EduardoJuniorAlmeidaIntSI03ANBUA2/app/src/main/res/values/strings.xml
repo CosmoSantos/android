@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CosmodosSantosAlmeida_EduardoJuniorAlmeida IntSI03ANBUA</string>
+    <string name="nomeLabel">Qual é o seu nome ?</string>
+    <string name="assuntoText">Qual é o assunto de interesse ?</string>
+    <string name="ok">OK</string>
+    <string name="cabessalho">Eis um lista: </string>
+</resources>
